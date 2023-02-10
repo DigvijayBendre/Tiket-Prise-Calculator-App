@@ -1,6 +1,6 @@
 # Tiket-Prise-Calculator-App
 # CalculatorApp
-Started on 04 November 2020
+Started on 04 November 2021
 
 An android application developed in JAVA using grdale to calculate the whole expenditure of a trip including ticket prices, hotels and taxis.
 
